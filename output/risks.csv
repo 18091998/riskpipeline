@@ -1,0 +1,12 @@
+issue_id,issue_label,run_date,control_rating,target_date,days_until_due,is_overdue,escalation_required
+ISS-01,Two phishing emails got past the filter; regional advisory on ransomware aimed at facilities firms,2026-11-20,Needs Improvement,,,False,False
+ISS-02,Fall-arrest harness audit at 85% compliance; one lost-time injury on a roof job,2026-11-20,Unsatisfactory,,,False,True
+ISS-03,Three heat-exhaustion cases last summer; record temperatures forecast,2026-11-20,Needs Improvement,,,False,False
+ISS-04,Subject access request found 9-month-old CCTV footage,2026-11-20,Unsatisfactory,,,False,True
+ISS-05,Two late HVAC spare-part deliveries led to service-level penalties,2026-11-20,Needs Improvement,,,False,False
+ISS-06,Penalties on the government estate contract in 7 of the last 12 months,2026-11-20,Needs Improvement,,,False,False
+ISS-07,Staff issues,2026-11-20,Needs Improvement,,,False,False
+ISS-08,New UK building-safety rules in force from Q2 2027,2026-11-20,Needs Improvement,,,False,False
+ISS-09,Internal audit found 6 split purchase orders in one quarter,2026-11-20,Needs Improvement,,,False,True
+ISS-10,Four-hour outage at the Doha control centre after a power fault,2026-11-20,Needs Improvement,,,False,False
+ISS-11,38 minor fleet vehicle damage claims in 24 months,2026-11-20,Needs Improvement,,,False,False

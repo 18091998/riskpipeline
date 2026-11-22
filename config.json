@@ -1,0 +1,18 @@
+{
+  "model": {
+    "endpoint": "http://localhost:11434/v1",
+    "name": "qwen2.5:1.5b",
+    "api_key_env": "LLM_API_KEY",
+    "temperature": 0.2,
+    "runs_per_score": 2
+  },
+  "confidence_threshold": 0.7,
+  "prompts_dir": "prompts",
+  "output_dir": "output",
+  "policy_parameters": {
+    "_note": "Numbers that the policy text states in words (CER-01 says 12 months). Kept here, not in code, so they can be changed without editing code.",
+    "test_max_age_days": 365,
+    "stale_record_days": 180,
+    "penalty_window_months": 12
+  }
+}
